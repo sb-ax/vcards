@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Ludivine Canonne
+N;CHARSET=UTF-8:Canonne;Ludivine;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ludivine.canonne@axia-groupe.com
+TEL;TYPE=CELL:06 24 40 21 33
+TEL;TYPE=WORK,VOICE:03 57 55 00 10
+ADR;CHARSET=UTF-8;TYPE=WORK:;;2\, rue Jean Louis Etienne;NORROY LE VENEUR;;57140;
+ROLE;CHARSET=UTF-8:Assistante communication digitale
+ORG;CHARSET=UTF-8:Axia groupe
+URL;type=WORK;CHARSET=UTF-8:www.axia-groupe.com
+REV:2026-05-27T09:11:46.198Z
+END:VCARD
